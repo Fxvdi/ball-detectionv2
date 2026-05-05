@@ -3,4 +3,4 @@ yolo/yolo26x.pt
 yolo/yolo26m.pt
 yolo/ball_detection.pt
 yolo/runs
-train/images
+train
